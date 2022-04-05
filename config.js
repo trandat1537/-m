@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Nguyễn Thị Thanh Tâm",
-    introTitle: 'Nguyễn Thanh Tâm',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "sen do",
+    introTitle: 'NT sen',
+    introDesc: `chào mừng đến với những lời nói thật`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'những câu trả lời chân thật nhất 🥰',
+    desc: 'sen bị đên đúng không ',
+    btnYes: 'quá đúng',
+    btnNo: 'Không nha ',
+    question: 'thích chưởi j thì viết ra đi ',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Hôm nào rảnh có thể cho mình mời bạn đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'trần đạt rất đẹp trai',
+    mess: ' biết mà ',
+    messDesc: 'có chưởi j thì vào chưởi luôn đi nha.',
+    btnAccept: 'Okiiiii ',
     messLink: 'https://www.facebook.com/messages/t/100018655006107' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
