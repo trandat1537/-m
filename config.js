@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Ngọc Ngọc",
-    introTitle: 'Ngọc Ngọc',
+    titleWeb: "Thu Trang",
+    introTitle: 'Thu Trang',
     introDesc: `chào mừng đến với những lời nói thật`,
     btnIntro: '^^bấm vô^^',
     title: 'những câu trả lời chân thật nhất 🥰',
@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha ',
     question: 'một lời tự an ủi bản thân',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'thật ra t k bị điên mà bị ngẩn ',
+    reply: 'thật ra t k bị điên mà bị ngây ',
     mess: ' biết mà ',
     messDesc: 'bấm vào',
     btnAccept: 'Okiiiii ',
